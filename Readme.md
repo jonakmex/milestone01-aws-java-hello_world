@@ -5,8 +5,9 @@ In this Step we are going to create our first Java Programm
 
 ## Technologies Used
 - List of technologies/frameworks/libraries used in the project:
-  - Java Compiler (javac)
-  - Java Runtime (java)
+  - Java 19 Compiler (javac)
+  - Java 19 Runtime (java)
+  - Gradle 8.7
 
 ## Concepts
 - Overview of important concepts utilized in the project:
